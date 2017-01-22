@@ -7,8 +7,8 @@
 
 ======================================================================
 
-## 3 第三章
+##  第三章
 
-### 3.1 [下载八上第三章试题请点击](https://github.com/luxifac/luxifac.github.io/blob/master/%E5%85%AB%E4%B8%8A%E7%AC%AC%E4%B8%89%E7%AB%A0%E8%AF%95%E9%A2%98.docx)
+###  [[下载八上第三章试题请点击](https://github.com/luxifac/luxifac.github.io/blob/master/%E5%85%AB%E4%B8%8A%E7%AC%AC%E4%B8%89%E7%AB%A0%E8%AF%95%E9%A2%98.docx)]
 
-### 3.2 [下载八上第三章试题答案请点击](https://github.com/luxifac/luxifac.github.io/blob/master/%E5%85%AB%E4%B8%8A%E7%AC%AC%E4%B8%89%E7%AB%A0%E8%AF%95%E9%A2%98.docx)
+###  [[下载八上第三章试题答案请点击](https://github.com/luxifac/luxifac.github.io/blob/master/%E5%85%AB%E4%B8%8A%E7%AC%AC%E4%B8%89%E7%AB%A0%E8%AF%95%E9%A2%98.docx)]
